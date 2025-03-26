@@ -8,11 +8,8 @@
         }
     ],
     "semanticColors": {
-        "Semantic_color_1": [
-            "#00ff00"
-        ],
-        "Semantic_color_2": [
-            "#00ff00"
+        "ANDROID_RIPPLE": [
+            "#ffffffff"
         ]
     },
     "spec": 2
