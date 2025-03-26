@@ -13,6 +13,12 @@
         ],
         "BACKGROUND_ACCENT": [
             "#2c2d35"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#131318"
         ]
     },
     "spec": 2
