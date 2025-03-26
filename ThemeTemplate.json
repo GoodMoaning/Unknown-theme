@@ -44,6 +44,18 @@
         "BG_BASE_TERTIARY": [
             "#000000"
         ],
+        "CARD_PRIMARY_BG": [
+            "#131318"
+        ],
+        "CARD_PRIMARY_PRESSED_BG": [
+            "#0c0c10"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#0c0c10"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#131318"
+        ],
         "BG_BACKDROP": [
             "#212229bf"
         ]
