@@ -1,22 +1,10 @@
 {
-    "name": "Theme_name",
-    "description": "Theme_description",
+    "name": "Unknown theme",
+    "description": "Test Description",
     "authors": [
         {
-            "name": "Author"
+            "name": "Marshlemon"
+			"id": "784126537501900820"
         }
-    ],
-    "semanticColors": {
-        "Semantic_color_1": [
-            "#00ff00"
-        ],
-        "Semantic_color_2": [
-            "#00ff00"
-        ]
-    },
-    "rawColors": {
-        "RAW_Color_1": "#00ff00",
-        "RAW_Color_2": "#00ff00"
-    },
-    "spec": 2
+    ]
 }
