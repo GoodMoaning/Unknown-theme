@@ -20,8 +20,14 @@
         "BACKGROUND_SECONDARY": [
             "#131318"
         ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2c2d35"
+        ],
         "BACKGROUND_FLOATING": [
             "#131318"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
         ]
     },
     "spec": 2
