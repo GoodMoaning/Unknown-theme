@@ -26,9 +26,6 @@
         "BACKGROUND_TERTIARY": [
             "#212229"
         ],
-        "BG_BACKDROP": [
-            "#212229bf"
-        ],
         "BACKGROUND_FLOATING": [
             "#131318"
         ],
@@ -37,6 +34,18 @@
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000000"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#000000"
+        ],
+        "BG_BACKDROP": [
+            "#212229bf"
         ]
     },
     "spec": 2
